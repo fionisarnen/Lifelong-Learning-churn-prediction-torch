@@ -12,5 +12,5 @@ https://arxiv.org/pdf/1612.00796.pdf
 
 This repo also directly connected to : https://github.com/fionisarnen/without-LL-churn-prediction
 
-
+> You can find the details of this project through my publication: https://ieeexplore.ieee.org/document/9212924
 
